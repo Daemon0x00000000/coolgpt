@@ -21,9 +21,12 @@
     "@nuxt/image": "1.10.0",
     "@nuxt/scripts": "0.11.6",
     "@nuxt/ui": "3.1.1",
+    "@tailwindcss/vite": "^4.1.6",
     "@unhead/vue": "^2.0.3",
     "eslint": "^9.0.0",
     "nuxt": "^3.17.3",
+    "nuxt-auth-utils": "0.5.20",
+    "tailwindcss": "^4.1.6",
     "typescript": "^5.6.3",
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"

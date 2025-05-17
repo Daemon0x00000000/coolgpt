@@ -1,1 +1,30 @@
 @import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme default {
+    --font-sans: 'Poppins', sans-serif;
+
+
+
+
+}
+
+:root {
+    --ui-bg: #f4f4f4;
+
+    --ui-primary: #00bcd4;
+    --ui-secondary: #ff4081;
+    --ui-success: #4caf50;
+    --ui-warning: #ff9800;
+    --ui-danger: #f44336;
+}
+
+.dark {
+    --ui-bg: #121212;
+    --border: #424242;
+    --ui-primary: #bb86fc;
+    --ui-secondary: #03dac6;
+    --ui-success: #03dac6;
+    --ui-warning: #ff9800;
+    --ui-danger: #cf6679;
+}
